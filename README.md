@@ -1,4 +1,4 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/02/82/86/95/1000_F_282869545_l5HqdgD5Uup1WE0VLC21DNDkpx7G1jTc.jpg)](https://github.com/DEV-Dhruva)
+[![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://github.com/DEV-Dhruva)
 <h1 align="center">Hi 👋, I'm Dhruva Ludbe.</h1>
 <h3 align="center">A passionate frontend developer from Earth.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
