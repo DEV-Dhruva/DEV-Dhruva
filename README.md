@@ -1,11 +1,12 @@
 [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://github.com/DEV-Dhruva)
 <h1 align="center">Hi 👋, I'm Dhruva Ludbe.</h1>
 <h3 align="center">A passionate frontend developer from Earth.</h3>
+<p align="center">
+    <img width="33%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dev-dhruva"/>
+</p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-dhruva&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dhruva" /> </p></br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dhruva&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dhruva" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-dhruva" alt="dev-dhruva" /></a> </p>
 
 - 🔭 I’m currently working on [some projects.](#)
 
@@ -32,6 +33,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-dhruva&show_icons=true&locale=en&layout=compact" alt="dev-dhruva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-dhruva&show_icons=true&locale=en" alt="dev-dhruva" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-dhruva" alt="dev-dhruva" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dhruva&" alt="dev-dhruva" /></p>
 
