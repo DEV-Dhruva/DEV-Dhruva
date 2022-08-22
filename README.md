@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhruva Ludbe.</h1>
 <h3 align="center">A passionate frontend developer from Earth.</h3>
 <p align="center">
-    <img width="33%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dev-dhruva"/>
+    <img width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dev-dhruva"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-dhruva&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dhruva" /> </p></br>
