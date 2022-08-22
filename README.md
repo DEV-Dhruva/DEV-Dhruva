@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/DEV-Dhruva)
+[![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://github.com/DEV-Dhruva)
 <h1 align="center">Hi 👋, I'm Dhruva Ludbe.</h1>
 <h3 align="center">A passionate frontend developer from Earth.</h3>
-<img align="right" alt="Coding" width="400" src="https://hemalcorporation.com/wp-content/upl>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dhruva&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dhruva" /> </p>
 
