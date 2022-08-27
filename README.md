@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **about Frontend Frameworks and much more.**
 
-- 👨‍💻 All of my projects are available at [#](#)
+- 👨‍💻 All of my projects are available at [github only.](#)
 
 - 💬 Ask me about **Frontend, Backend, Programming and what you want to ask.**
 
-- 📫 How to reach me **#**
+- 📫 How to reach me **through my linkedin(given below).**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences [still in learning stage.](#)
 
 - ⚡ Fun fact **I am Human.**
 
@@ -41,5 +41,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
