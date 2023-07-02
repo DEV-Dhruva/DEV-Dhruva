@@ -1,5 +1,5 @@
 [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://github.com/DEV-Dhruva)
-<h1 align="center">Hi 👋, I'm Dhruva Ludbe.</h1>
+<h1 align="center">Hi 👋, I'm Dhruva Ludbe. (<a href="https://dev-dhruva.github.io/resume/" target="blank">Resume</a>)</h1>
 <h3 align="center">A passionate frontend developer from Earth.</h3>
 <p align="center">
     <img width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dev-dhruva"/>
@@ -14,11 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [github only.](#)
 
-- 💬 Ask me about **Frontend, Backend, Programming and what you want to ask.**
+- 💬 Ask me about **Frontend, Backend, Programming, and what you want to ask.**
 
-- 📫 How to reach me **through my linkedin(given below).**
-
-- 📄 Know about my experiences [still in learning stage.](#)
+- 📫 How to reach me **through my linkedin.**
 
 - ⚡ Fun fact **I am Human.**
 
