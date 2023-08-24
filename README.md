@@ -1,5 +1,5 @@
 [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://github.com/DEV-Dhruva)
-<h1 align="center">Hi 👋, I'm Dhruva Ludbe. (<a href="https://dev-dhruva.github.io/resume/" target="_blank">Resume</a>)</h1>
+<h1 align="center">Hi 👋, I'm Dhruva Ludbe. (<a href="https://drive.google.com/file/d/16LXgfnr9j0AsZ6p3UFrVgDFg1-C9of-8/view" target="_blank">Resume</a>)</h1>
 <h3 align="center">A passionate frontend developer from Earth.</h3>
 <p align="center">
     <img width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dev-dhruva"/>
